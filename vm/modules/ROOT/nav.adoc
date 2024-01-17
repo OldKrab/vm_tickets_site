@@ -1,4 +1,0 @@
-* xref:index.adoc[]
-* xref:101.adoc[]
-* xref:102.adoc[]
-* xref:103.adoc[]

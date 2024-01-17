@@ -1,10 +1,10 @@
 site:
-  title: Boob
+  title: Билеты по VM
   start_page: vm::index.adoc
 content:
   sources:
   - url: .
-    start_path: vm
+    start_path: docs
     branches: HEAD
 
 asciidoc:
@@ -12,5 +12,4 @@ asciidoc:
     page-pagination: ''
 ui:
   bundle:
-    url: https://gitlab.com/antora/antora-ui-default/-/jobs/artifacts/HEAD/raw/build/ui-bundle.zip?job=bundle-stable
-    snapshot: true
+    url: ./ui

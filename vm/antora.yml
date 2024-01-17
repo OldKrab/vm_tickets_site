@@ -1,7 +1,0 @@
-name: vm
-title: VM tickets
-version: 1.0
-start_page: index.adoc
-
-nav:
-- modules/ROOT/nav.adoc
