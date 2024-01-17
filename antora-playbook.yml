@@ -1,0 +1,12 @@
+site:
+  title: Antora Demo Site
+  start_page: vm::first.adoc
+content:
+  sources:
+  - url: .
+    start_page: vm
+    branches: HEAD
+ui:
+  bundle:
+    url: https://gitlab.com/antora/antora-ui-default/-/jobs/artifacts/HEAD/raw/build/ui-bundle.zip?job=bundle-stable
+    snapshot: true
