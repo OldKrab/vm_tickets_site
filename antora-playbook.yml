@@ -1,11 +1,15 @@
 site:
-  title: Antora Demo Site
-  start_page: vm::first.adoc
+  title: Boob
+  start_page: vm::index.adoc
 content:
   sources:
   - url: .
-    start_page: vm
+    start_path: vm
     branches: HEAD
+
+asciidoc:
+  attributes:
+    page-pagination: ''
 ui:
   bundle:
     url: https://gitlab.com/antora/antora-ui-default/-/jobs/artifacts/HEAD/raw/build/ui-bundle.zip?job=bundle-stable
