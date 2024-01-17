@@ -1,7 +1,8 @@
 
 = Boob 
+:stem:
 
-Hello!
+Hello!  stem:[x + y = 42]
 
 == Subtitle
 
