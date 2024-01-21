@@ -1899,6 +1899,32 @@ a+.breadcrumbs {
     padding-right: .25rem
 }
 
+.pluses ul {
+    list-style-type: none; /* Remove the default bullets */
+  }
+  
+  .pluses ul li::marker {
+    content: "+"; /* Use the '+' character as the marker */
+    font-weight: bold;
+  }
+
+  .pluses ul li p {
+    margin-left: 5px; /* Optional - add a small space between the plus sign and the list item */
+  }
+
+.minuses ul {
+    list-style-type: none; /* Remove the default bullets */
+  }
+  
+  .minuses ul li::marker {
+    content: "−"; /* Use the '+' character as the marker */
+    font-weight: bold;
+  }
+
+  .minuses ul li p {
+    margin-left: 5px; /* Optional - add a small space between the plus sign and the list item */
+  }
+
 .doc td.hdlist2 {
     padding-left: .25rem
 }
