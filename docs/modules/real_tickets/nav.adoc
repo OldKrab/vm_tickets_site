@@ -7,6 +7,8 @@
 ** xref:106.adoc[]
 ** xref:107.adoc[]
 ** xref:108.adoc[]
+** xref:109.adoc[]
+** xref:110.adoc[]
 ** Extra
 ***  xref:107_call_lib_funcs.adoc[]
 ***  xref:107_callbacks.adoc[]
