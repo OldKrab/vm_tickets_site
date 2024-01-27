@@ -1,6 +1,8 @@
 {
     "asciidoc.antora.enableAntoraSupport": true,
     "cSpell.words": [
+        "деоптимизацией",
+        "Деоптимизация",
         "профилятор"
     ]
 }
