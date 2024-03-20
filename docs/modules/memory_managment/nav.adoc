@@ -1,0 +1,7 @@
+* Управление памятью
+** xref:auto/auto.adoc[]
+*** xref:auto/amr.adoc[]
+*** xref:auto/link_count.adoc[]
+*** xref:auto/gc.adoc[]
+*** xref:auto/gc_class.adoc[]
+*** xref:auto/locals.adoc[]
