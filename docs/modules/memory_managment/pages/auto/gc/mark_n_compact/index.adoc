@@ -10,7 +10,7 @@
 
 Не избегаем фрагментации, а устраняем её!
 
-image::media/1.png[]
+image::auto/gc/mark_n_compact/index/1.png[]
 
 == Перемещение объектов
 
